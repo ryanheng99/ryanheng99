@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi, I'm Ryan Heng — a data science enthusiast with a background in chemical engineering and a specialization in data engineering.
+🔍 Currently a Process Data Scientist Intern at Sanofi, where I work on integrating and validating manufacturing data across systems like MES, LIMS, DeltaV, and APRM.
+💻 I’m proficient in:
 
-<!--
-**ryanheng99/ryanheng99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python (Pandas, NumPy, Scikit-learn)
+SQL
+Power BI
+Azure Data Factory
+REST APIs
+Git
 
-Here are some ideas to get you started:
+📊 My interests include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Time-series modeling
+ETL pipeline development
+Industrial data analytics
+Data visualization and dashboarding
+Process optimization using data
+
+📁 Check out my projects https://github.com/ryanheng99/PDS-Projects/tree/main — where I explore real-world datasets and build scalable analytics solutions.
+🌱 Always learning, always building. Let’s connect!
