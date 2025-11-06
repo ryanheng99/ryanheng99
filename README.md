@@ -8,7 +8,7 @@
 
 -SQL (PostgreSQL, MySQL)
 
--Git, REST APIs, ARIMA. LSTM
+-Git, REST APIs, ARIMA/SARIMA. LSTM
 
 -ETL development, data modeling, time-series analysis, dashboarding
 
