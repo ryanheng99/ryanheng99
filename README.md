@@ -14,7 +14,7 @@
 
 📊 My interests include:
 
--Industrial data analytics
+-Data analytics
 
 -Process optimization using data
 
