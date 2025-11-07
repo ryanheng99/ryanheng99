@@ -22,7 +22,7 @@
 
 -Visual storytelling with dashboards
 
-⚽ Outside of work, I’m passionate about sports—whether it’s playing, watching, or analyzing performance data.
+⚽ Outside of work, I’m passionate about sports in general
 
 📁 Explore my projects: https://github.com/ryanheng99/PDS-Projects/tree/main
 
