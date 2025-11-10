@@ -1,6 +1,6 @@
 👋 Hi, I'm Ryan Heng, a data science enthusiast with a background in chemical engineering and a specialization in data engineering.
 
-🔍 Currently a Process Data Scientist, where I work on integrating and validating manufacturing data across systems like MES, LIMS, DeltaV, and APRM.
+🔍 Currently a Process Data Scientist, where I work on integrating and validating manufacturing data across manufacturing source systems.
 
 💻 I’m proficient in:
 
