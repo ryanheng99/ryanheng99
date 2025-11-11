@@ -1,22 +1,26 @@
-👋 Hi, I'm Ryan Heng, a data science enthusiast with a background in chemical engineering and a specialization in data engineering.
+#👋 Hi, I'm Ryan Heng 
+A data science enthusiast with a background in chemical engineering and a specialization in data engineering.
 
 🔍 Currently a Process Data Scientist, where I work on integrating and validating manufacturing data across manufacturing source systems.
 
-💻 I’m proficient in:
+# 💻 I’m proficient in:
 
--Python 
->>Data Manipulation (Pandas, NumPy)
->>ML (ARIMA/SARIMA. LSTM)
->>Visualiation (Matplotlib, Seaborn, plotly)
+Programming
+```
+Python:
+-Data Manipulation (Pandas, NumPy) 
+-ML (ARIMA/SARIMA. LSTM)
+-Visualiation (Matplotlib, Seaborn, plotly)
 
 -SQL (PostgreSQL, MySQL)
 
 -Git, REST APIs
 
 -ETL development, data modeling, time-series analysis, dashboarding
+```
 
-📊 My interests include:
-
+# 📊 My interests include:
+```
 -Data analytics
 
 -Process optimization using data
@@ -28,6 +32,7 @@
 -AI
 
 -Visual storytelling with dashboards
+```
 
 ⚽ Outside of work, I’m passionate about sports in general
 
