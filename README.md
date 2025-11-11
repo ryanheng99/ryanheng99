@@ -4,11 +4,14 @@
 
 💻 I’m proficient in:
 
--Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, PyTorch, TensorFlow)
+-Python 
+>>Data Manipulation (Pandas, NumPy)
+>>ML (ARIMA/SARIMA. LSTM)
+>>Visualiation (Matplotlib, Seaborn, plotly)
 
 -SQL (PostgreSQL, MySQL)
 
--Git, REST APIs, ARIMA/SARIMA. LSTM
+-Git, REST APIs
 
 -ETL development, data modeling, time-series analysis, dashboarding
 
@@ -19,6 +22,10 @@
 -Process optimization using data
 
 -Building scalable data pipelines
+
+-Machine Learning
+
+-AI
 
 -Visual storytelling with dashboards
 
