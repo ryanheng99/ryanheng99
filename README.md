@@ -1,4 +1,4 @@
-#👋 Hi, I'm Ryan Heng 
+# 👋 Hi, I'm Ryan Heng 
 A data science enthusiast with a background in chemical engineering and a specialization in data engineering.
 
 🔍 Currently a Process Data Scientist, where I work on integrating and validating manufacturing data across manufacturing source systems.
