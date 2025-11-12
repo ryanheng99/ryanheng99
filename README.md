@@ -36,7 +36,7 @@ Python:
 
 ⚽ Outside of work, I’m passionate about sports in general
 
-📁 Explore my projects: [https://github.com/ryanheng99/PDS-Projects/tree/main](https://github.com/ryanheng99?tab=repositories)
+📁 Explore my projects: [https://github.com/ryanheng99/repository](https://github.com/ryanheng99?tab=repositories)
 
 🌱 Always learning, always building. Let’s connect!
 
