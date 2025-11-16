@@ -3,32 +3,51 @@ A crypto, quantitative finance, and cloud-native tech enthusiast with a backgrou
 
 Currently a data science intern at Sanofi
 
-# 💻 My Skillsets:
+# 💻 Technical Skills:
 
 ```
-Programming: Python, MySQL, NoSQL HTML/CSS, Bash, VBA, SOLID
-Data Science: ML/DL, time-series forecasting, anomaly detection, CNNs, model evaluation Statistical Analysis, Data Visualization
-Version Control: Git, GitHub, CI/CD
-Data Engineering: ETL/ELT, Spark, Kafka, Airflow, DataWarehousing(Snowflake, Databricks), AWS(S3) , GCP, APIs, Docker
-Process Engineering/IoT: MATLAB, AutoCAD, MES, PLCs, DCS, IoT sensors, real-time data acquisition
+
+Programming & Data
+
+Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch)
+
+Time-series modeling (ARIMA/SARIMA, LSTM)
+
+Data Visualization (Matplotlib, Seaborn, Plotly)
+
+SQL (PostgreSQL, MySQL)
+
+REST APIs, Git
+
+Data Engineering
+
+ETL/ELT pipeline development
+
+Data modeling & warehousing
+
+Batch & streaming extraction
+
+Time-series analysis
+
+Dashboarding & reporting
 ```
 
 # 📊 My interests include:
 ```
--Data analytics
+End-to-end data pipeline development
 
--Process optimization using data
+Machine Learning & AI applications
 
--Building scalable data pipelines
+Predictive modeling
 
--Machine Learning
+Smart manufacturing & process optimization
 
--AI
+Building scalable data platforms
 
--Visual storytelling with dashboards
+Crypto & financial data engineering
 ```
 
-⚽ Outside of work, I’m passionate about sports in general
+⚽ Outside of work, I’m a huge sports fan — always active and always learning something new.
 
 📁 Explore my projects: [https://github.com/ryanheng99/repository](https://github.com/ryanheng99?tab=repositories)
 
