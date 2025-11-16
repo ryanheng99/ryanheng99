@@ -1,22 +1,16 @@
 # 👋 Hi, I'm Ryan Heng 
-A data science enthusiast with a background in chemical engineering and a specialization in data engineering.
+A crypto, quantitative finance, and cloud-native tech enthusiast with a background in chemical engineering and data engineering.
 
-🔍 Currently a Process Data Scientist, where I work on integrating and validating manufacturing data across manufacturing source systems.
+Currently a data science intern at Sanofi
 
-# 💻 I’m proficient in:
+# 💻 My Skillsets:
 
-Programming
 ```
-Python:
--Data Manipulation (Pandas, NumPy) 
--ML (ARIMA/SARIMA. LSTM)
--Visualiation (Matplotlib, Seaborn, plotly)
-
--SQL (PostgreSQL, MySQL)
-
--Git, REST APIs
-
--ETL development, data modeling, time-series analysis, dashboarding
+Programming: Python, MySQL, NoSQL HTML/CSS, Bash, VBA, SOLID
+Data Science: ML/DL, time-series forecasting, anomaly detection, CNNs, model evaluation Statistical Analysis, Data Visualization
+Version Control: Git, GitHub, CI/CD
+Data Engineering: ETL/ELT, Spark, Kafka, Airflow, DataWarehousing(Snowflake, Databricks), AWS(S3) , GCP, APIs, Docker
+Process Engineering/IoT: MATLAB, AutoCAD, MES, PLCs, DCS, IoT sensors, real-time data acquisition
 ```
 
 # 📊 My interests include:
