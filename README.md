@@ -7,19 +7,11 @@ Currently a data science intern at Sanofi
 
 ```
 
-Programming & Data Science:
-Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch)
-Time-series modeling (ARIMA/SARIMA, LSTM)
-Data Visualization (Matplotlib, Seaborn, Plotly)
-SQL (PostgreSQL, MySQL)
-REST APIs, Git
-
-Data Engineering:
-ETL/ELT pipeline development
-Data modeling & warehousing
-Batch & streaming extraction
-Time-series analysis
-Dashboarding & reporting
+Programming: Python, C++, MySQL, NoSQL HTML/CSS, Bash, VBA, SOLID
+Data Science/ML/DL/AI: ML/DP(PyTorch, TensorFlow, Scikit-Learn), AI(Langchain, OpenCV, Hugging Face Transformers, Keras, XGBoost), Time-Series Forecasting, Anomaly Detection, CNNs, Model Evaluation Statistical Analysis, Data Visualization(StreamLit, Matplotlib, Plotly)
+Version Control: Git, GitHub, CI/CD
+Data Engineering: ETL/ELT, Spark, Kafka, Airflow, Flask, DataWarehousing(Snowflake, Databricks), AWS(S3) , GCP, APIs, Docker
+Process Engineering/IoT: MATLAB, AutoCAD, MES, PLCs, DCS, IoT sensors, real-time data acquisition
 ```
 
 # 📊 My interests include:
