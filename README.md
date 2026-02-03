@@ -7,11 +7,11 @@ Currently a data science intern at Sanofi
 
 ```
 
-Programming: Python, C++, MySQL, NoSQL HTML/CSS, Bash, VBA, SOLID
-Data Science/ML/DL/AI: ML/DP(PyTorch, TensorFlow, Scikit-Learn), AI(Langchain, OpenCV, Hugging Face Transformers, Keras, XGBoost), Time-Series Forecasting, Anomaly Detection, CNNs, Model Evaluation Statistical Analysis, Data Visualization(StreamLit, Matplotlib, Plotly)
+Programming: Python, SQL, HTML/CSS, VBA
+Data Science: Machine Learning/Deep Learning(PyTorch, TensorFlow, Scikit-Learn) Time-Series Forecasting, Anomaly Detection, CNNs, Model Evaluation Statistical Analysis, Data Visualization(Matplotlib, Plotly)
 Version Control: Git, GitHub, CI/CD
-Data Engineering: ETL/ELT, Spark, Kafka, Airflow, Flask, DataWarehousing(Snowflake, Databricks), AWS(S3) , GCP, APIs, Docker
-Process Engineering/IoT: MATLAB, AutoCAD, MES, PLCs, DCS, IoT sensors, real-time data acquisition
+Data Engineering: ETL Pipelines, DataWarehousing(Snowflake, Databricks)
+Process Engineering/IoT: MATLAB, AutoCAD, MES, PLCs, DCS
 ```
 
 # 📊 My interests include:
@@ -21,7 +21,7 @@ Machine Learning & AI applications
 Predictive modeling
 Smart manufacturing & process optimization
 Building scalable data platforms
-Crypto & financial data engineering
+Crypto & finance 
 ```
 
 ⚽ Outside of work, I’m a huge sports fan — always active and always learning something new.
