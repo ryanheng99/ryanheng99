@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Ryan Heng 
 A crypto, quantitative finance, and cloud-native tech enthusiast with a background in chemical engineering and data engineering.
 
-Currently a data science intern at Sanofi
+Currently a data science intern
 
 # 💻 Technical Skills:
 
 ```
 
-Programming: Python, SQL, HTML/CSS, VBA
-Data Science: Machine Learning/Deep Learning(PyTorch, TensorFlow, Scikit-Learn) Time-Series Forecasting, Anomaly Detection, CNNs, Model Evaluation Statistical Analysis, Data Visualization(Matplotlib, Plotly)
+Programming: Python, SQL, MATLAB, VBA
+Data Science & Analytics: Machine Learning/Deep Learning(PyTorch, TensorFlow, Scikit-Learn) Time-Series Analysis, Anomaly Detection,Statistical Analysis , Data Visualization(Matplotlib, Plotly)
+Data Engineering: ETL Pipelines, Data Warehousing(Snowflake),Data Integration
 Version Control: Git, GitHub, CI/CD
-Data Engineering: ETL Pipelines, DataWarehousing(Snowflake, Databricks)
-Process Engineering/IoT: MATLAB, AutoCAD, MES, PLCs, DCS
+Library & Tools: Pandas, NumPy, Matplotlib, Plotly, PyTorch (basic), TensorFlow (basic)
 ```
 
 # 📊 My interests include:
